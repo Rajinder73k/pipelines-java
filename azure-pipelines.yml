@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  Rajinder_Pool
+  Default
 
 steps:
 - task: Maven@3
